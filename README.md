@@ -1,3 +1,10 @@
-# travel_app
+# My Project README
 
-A new Flutter project.
+Welcome to my awesome project!
+
+## Sample UI
+
+Here's a preview of our project's user interface:
+
+![Welcome Page](./images/welcome.png)
+![Home Page](./images/home.png)
